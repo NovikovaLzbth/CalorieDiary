@@ -1,0 +1,3 @@
+com.example.caloriediary.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_dialog_input.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\border.xml"
+    },
+    {
+        "merged": "com.example.caloriediary.app-merged_res-36:/layout_activity_mintay.xml.flat",
+        "source": "com.example.caloriediary.app-main-38:/layout/activity_mintay.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_autoriz.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_autoriz.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_opu.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\opu.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.caloriediary.app-merged_res-36:/drawable_losos.png.flat",
+        "source": "com.example.caloriediary.app-main-38:/drawable/losos.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_mintay.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_mintay.xml"
+    },
+    {
+        "merged": "com.example.caloriediary.app-merged_res-36:/drawable_mint.png.flat",
+        "source": "com.example.caloriediary.app-main-38:/drawable/mint.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_mainscreen.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\mainscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_my_calorie.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_my_calorie.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.caloriediary.app-merged_res-36:/drawable_menazh.png.flat",
+        "source": "com.example.caloriediary.app-main-38:/drawable/menazh.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_registr.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_registr.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_losos.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_losos.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_main_screen.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_main_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.caloriediary.app-merged_res-36:/layout_activity_losos.xml.flat",
+        "source": "com.example.caloriediary.app-main-38:/layout/activity_losos.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_border3.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\border3.xml"
+    },
+    {
+        "merged": "com.example.caloriediary.app-merged_res-36:/layout_activity_menazhnitsa.xml.flat",
+        "source": "com.example.caloriediary.app-main-38:/layout/activity_menazhnitsa.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.caloriediary.app-merged_res-36:/layout_activity_udon.xml.flat",
+        "source": "com.example.caloriediary.app-main-38:/layout/activity_udon.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_f.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\f.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_udon.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\udon.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_padding.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\padding.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_vv.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\vv.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_bordernew.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\bordernew.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_we.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\we.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_menazhnitsa.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_menazhnitsa.xml"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_welcome2.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\welcome2.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\drawable_recomend.png.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\drawable\\recomend.png"
+    },
+    {
+        "merged": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-merged_res-36:\\layout_activity_udon.xml.flat",
+        "source": "C:\\Users\\novik\\.gradle\\daemon\\8.2\\com.example.caloriediary.app-main-38:\\layout\\activity_udon.xml"
+    }
+]

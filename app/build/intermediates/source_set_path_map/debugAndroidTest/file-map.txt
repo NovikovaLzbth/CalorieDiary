@@ -1,0 +1,5 @@
+com.example.caloriediary.test.app-core-1.6.1-0 C:\Users\novik\.gradle\caches\transforms-3\3874bff1856027ae5f53164ee194bd87\transformed\core-1.6.1\res
+com.example.caloriediary.test.app-androidTest-1 C:\Users\novik\AndroidStudioProjects\CalorieDiary\app\build\generated\res\resValues\androidTest\debug
+com.example.caloriediary.test.app-mergeDebugAndroidTestResources-2 C:\Users\novik\AndroidStudioProjects\CalorieDiary\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.caloriediary.test.app-mergeDebugAndroidTestResources-3 C:\Users\novik\AndroidStudioProjects\CalorieDiary\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.caloriediary.test.app-merged_res-4 C:\Users\novik\AndroidStudioProjects\CalorieDiary\app\build\intermediates\merged_res\debugAndroidTest

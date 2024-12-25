@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014534141549",
+    "project_id": "diaryofcalorie",
+    "storage_bucket": "diaryofcalorie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014534141549:android:e1c00802b955cfbb22f164",
+        "android_client_info": {
+          "package_name": "com.example.caloriediary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPusTyLSNat-HCJ2KnzqMZbppkmHaZmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
