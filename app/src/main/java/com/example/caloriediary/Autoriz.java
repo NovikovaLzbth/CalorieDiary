@@ -57,6 +57,6 @@ public class Autoriz extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-//
-    }
+
+    }//
 }
